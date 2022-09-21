@@ -4,8 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-//import ReactDOM from "react-dom";
-//DO NOT DELETE COMMENT!!!!
+//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
 //C:\Users\danie\wakeleyapp\src
 
 
