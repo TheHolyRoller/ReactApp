@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 //import ReactDOM from "react-dom";
-//DO NOT DELETE COMENT!!!!
+//DO NOT DELETE COMMENT!!!!
 //C:\Users\danie\wakeleyapp\src
 
 
