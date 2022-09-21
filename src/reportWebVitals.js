@@ -6,7 +6,7 @@ const reportWebVitals = onPerfEntry => {
       getFCP(onPerfEntry);
       getLCP(onPerfEntry);
       getTTFB(onPerfEntry);
-      //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
+      //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
     });
   }
 };

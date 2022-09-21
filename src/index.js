@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-//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
+//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
 //C:\Users\danie\wakeleyapp\src
 
 
