@@ -6,7 +6,7 @@ function Navbar() {
         <>
         <nav className="navbar">
         <div className="navbar-container">
-        <Link> to="/"</Link>
+        <Link> to="/sd"</Link>
 
         </nav>
         </>
