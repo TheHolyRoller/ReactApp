@@ -6,7 +6,7 @@ function Navbar() {
         <>
         <nav className="navbar">
         <div className="navbar-container">
-        <Link> to="/sd"</Link>
+        <Link  to="/" className="navbar-logo"> TRVL <i className='fab fa-typo3'/> </Link>
 
         </nav>
         </>
